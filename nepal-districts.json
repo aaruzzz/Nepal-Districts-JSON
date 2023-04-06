@@ -1,0 +1,306 @@
+{
+  "districts": [
+    {
+      "name": "Achham",
+      "code": "ACH"
+    },
+    {
+      "name": "Arghakhanchi",
+      "code": "ARG"
+    },
+    {
+      "name": "Baglung",
+      "code": "BAG"
+    },
+    {
+      "name": "Baitadi",
+      "code": "BAI"
+    },
+    {
+      "name": "Bajhang",
+      "code": "BJH"
+    },
+    {
+      "name": "Bajura",
+      "code": "BJR"
+    },
+    {
+      "name": "Banke",
+      "code": "BAK"
+    },
+    {
+      "name": "Bara",
+      "code": "BAR"
+    },
+    {
+      "name": "Bardiya",
+      "code": "BRA"
+    },
+    {
+      "name": "Bhaktapur",
+      "code": "BHA"
+    },
+    {
+      "name": "Bhojpur",
+      "code": "BHO"
+    },
+    {
+      "name": "Chitwan",
+      "code": "CHI"
+    },
+    {
+      "name": "Dadeldhura",
+      "code": "DAD"
+    },
+    {
+      "name": "Dailekh",
+      "code": "DIL"
+    },
+    {
+      "name": "Dang",
+      "code": "DAN"
+    },
+    {
+      "name": "Darchula",
+      "code": "DAR"
+    },
+    {
+      "name": "Dhading",
+      "code": "DHA"
+    },
+    {
+      "name": "Dhankuta",
+      "code": "DHK"
+    },
+    {
+      "name": "Dhanusha",
+      "code": "DHA"
+    },
+    {
+      "name": "Dolakha",
+      "code": "DOL"
+    },
+    {
+      "name": "Dolpa",
+      "code": "DOP"
+    },
+    {
+      "name": "Doti",
+      "code": "DOT"
+    },
+    {
+      "name": "Eastern Rukum",
+      "code": "ERU"
+    },
+    {
+      "name": "Gorkha",
+      "code": "GOR"
+    },
+    {
+      "name": "Gulmi",
+      "code": "GUL"
+    },
+    {
+      "name": "Humla",
+      "code": "HUM"
+    },
+    {
+      "name": "Ilam",
+      "code": "ILM"
+    },
+    {
+      "name": "Jajarkot",
+      "code": "JAJ"
+    },
+    {
+      "name": "Jhapa",
+      "code": "JHA"
+    },
+    {
+      "name": "Jumla",
+      "code": "JUMLA"
+    },
+    {
+      "name": "Kailali",
+      "code": "KAI"
+    },
+    {
+      "name": "Kalikot",
+      "code": "KAL"
+    },
+    {
+      "name": "Kanchanpur",
+      "code": "KAN"
+    },
+    {
+      "name": "Kapilvastu",
+      "code": "KAP"
+    },
+    {
+      "name": "Kaski",
+      "code": "KAS"
+    },
+    {
+      "name": "Kathmandu",
+      "code": "KTM"
+    },
+    {
+      "name": "Kavrepalanchok",
+      "code": "KAV"
+    },
+    {
+      "name": "Khotang",
+      "code": "KHO"
+    },
+    {
+      "name": "Lalitpur",
+      "code": "LAT"
+    },
+    {
+      "name": "Lamjung",
+      "code": "LAJ"
+    },
+    {
+      "name": "Mahottari",
+      "code": "MAH"
+    },
+    {
+      "name": "Makwanpur",
+      "code": "MAK"
+    },
+    {
+      "name": "Manang",
+      "code": "MAN"
+    },
+    {
+      "name": "Morang",
+      "code": "MOR"
+    },
+    {
+      "name": "Mugu",
+      "code": "MUG"
+    },
+    {
+      "name": "Mustang",
+      "code": "MUS"
+    },
+    {
+      "name": "Myagdi",
+      "code": "MYA"
+    },
+    {
+      "name": "Nawalparasi",
+      "code": "NAW"
+    },
+    {
+      "name": "Nuwakot",
+      "code": "NUW"
+    },
+    {
+      "name": "Okhaldhunga",
+      "code": "OKH"
+    },
+    {
+      "name": "Palpa",
+      "code": "PAL"
+    },
+    {
+      "name": "Panchthar",
+      "code": "PAN"
+    },
+    {
+      "name": "Parbat",
+      "code": "PAR"
+    },
+    {
+      "name": "Parsa",
+      "code": "PAR"
+    },
+    {
+      "name": "Pyuthan",
+      "code": "PYU"
+    },
+    {
+      "name": "Ramechhap",
+      "code": "RAM"
+    },
+    {
+      "name": "Rasuwa",
+      "code": "RAS"
+    },
+    {
+      "name": "Rautahat",
+      "code": "RAU"
+    },
+    {
+      "name": "Rolpa",
+      "code": "ROL"
+    },
+    {
+      "name": "Rupandehi",
+      "code": "RUP"
+    },
+    {
+      "name": "Salyan",
+      "code": "SAL"
+    },
+    {
+      "name": "Sankhuwasabha",
+      "code": "SAK"
+    },
+    {
+      "name": "Saptari",
+      "code": "SAP"
+    },
+    {
+      "name": "Sarlahi",
+      "code": "SAR"
+    },
+    {
+      "name": "Sindhuli",
+      "code": "SIN"
+    },
+    {
+      "name": "Sindhupalchok",
+      "code": "SPC"
+    },
+    {
+      "name": "Siraha",
+      "code": "SIR"
+    },
+    {
+      "name": "Solukhumbu",
+      "code": "SOL"
+    },
+    {
+      "name": "Sunsari",
+      "code": "SUN"
+    },
+    {
+      "name": "Surkhet",
+      "code": "SUR"
+    },
+    {
+      "name": "Syangja",
+      "code": "SYA"
+    },
+    {
+      "name": "Tanahu",
+      "code": "TAN"
+    },
+    {
+      "name": "Taplejung",
+      "code": "TAP"
+    },
+    {
+      "name": "Terhathum",
+      "code": "TER"
+    },
+    {
+      "name": "Udayapur",
+      "code": "UDA"
+    }
+  ]
+}
+
+
